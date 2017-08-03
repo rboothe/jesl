@@ -4,3 +4,5 @@ www.rdab.net does not work on laptop or on phone
 http://rdab.net works on laptop and on phone
 
 jesl.rdab.net does not work on laptop or on phone
+
+[2017-8-1] Everything working (i.e. jesl.rdab.net, http://rdab.net, www.rdab.net)
