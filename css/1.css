@@ -72,17 +72,7 @@ body, .wb_sbg { min-width: 992px; min-height: 2109px; }
 #wb_element_instance34 { left: 0px; top: 929px; display: block; z-index: 9000; }
 #wb_element_instance35 { left: 0px; top: 149px; display: block; z-index: 9999; }
 
-
-@media all and (max-width: 420px) {
-  wb_element_instance0,	wb_element_instance1,	wb_element_instance2,	wb_element_instance3,	wb_element_instance4,	wb_element_instance5,	wb_element_instance6,	wb_element_instance7,	wb_element_instance8,	wb_element_instance9,	wb_element_instance10,	wb_element_instance11,	wb_element_instance12,	wb_element_instance13,	wb_element_instance14,	wb_element_instance15,	wb_element_instance16,	wb_element_instance17,	wb_element_instance18,	wb_element_instance19,	wb_element_instance20,	wb_element_instance21,	wb_element_instance22,	wb_element_instance23,	wb_element_instance24,	wb_element_instance25,	wb_element_instance26,	wb_element_instance27,	wb_element_instance28,	wb_element_instance29,	wb_element_instance30,	wb_element_instance31,	wb_element_instance32,	wb_element_instance33,	wb_element_instance34,	wb_element_instance35,
- {
-    float: none;
-    width: auto;
-  }
-}
-
-
-/* @media (min-width: 768px) {
+@media (min-width: 768px) {
 	#wb_header { height: 516px; }
 	#wb_main { height: 989px; }
 	#wb_footer { height: 151px; }
@@ -258,4 +248,3 @@ body, .wb_sbg { min-width: 992px; min-height: 2109px; }
 	#wb_element_instance33 { left: 717px; top: 405px; min-width: 250px; width: 250px; min-height: 230px; height: 230px; display: block; overflow: hidden; }
 	#wb_element_instance33 img { width: 537px; height: 230px; display: block; position: relative; left: -130px; top: 0px; max-width: inherit; }
 }
- */
